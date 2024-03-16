@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Closed-Eye', 'Eyes', 'Open-Eye', 'Tired', 'Yawn']
+
+roboflow:
+  workspace: hudzaifah-makoto-ffg32
+  project: eyes-nawse
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hudzaifah-makoto-ffg32/eyes-nawse/dataset/14
