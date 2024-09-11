@@ -1,2 +1,2 @@
-Yamning detection using yolov8 model 
+Yamning detection using yolov model 
 
